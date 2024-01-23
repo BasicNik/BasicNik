@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil Verma.
-- 👀 I’m interested in Cyber Security and Web Development.
-- 🌱 I’m currently learning Linux,C,CSS,HTML,Python.
-- 💞️ I’m looking to collaborate on ...
+- Portolio Link - basicnik.vercel.app
+- 👀 I’m interested in Blockchain Development and Production.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me @basicnik1798@gmail.com.
 
 <!---
