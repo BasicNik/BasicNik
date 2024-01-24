@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil Verma.
-- Portolio Link - basicnik.vercel.app
+- **[Basic Nik Portfolio](basicnik.vercel.app)**
 - 👀 I’m interested in Blockchain Development and Production.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me @basicnik1798@gmail.com.
