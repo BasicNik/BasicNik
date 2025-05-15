@@ -6,7 +6,7 @@
 
 ## 🏅 Certifications
 
-[![GitHub Foundation Certificate](https://images.credly.com/your-badge-image.png)](https://www.credly.com/badges/eb660db3-0936-4151-a04b-abc43d48aec6/public_url)
+[![GitHub Foundation Certificate](https://github.com/BasicNik/BasicNik/blob/b113fdec086329ec8a0af945197b740321126372/Certifications/github-foundations.png)](https://www.credly.com/badges/eb660db3-0936-4151-a04b-abc43d48aec6/public_url)
 
 <!---
 BasicNik/BasicNik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
